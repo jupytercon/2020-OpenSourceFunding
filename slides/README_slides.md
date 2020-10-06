@@ -16,16 +16,18 @@ jupyter:
 
 # Open Source Funding
 
-- Presenter: Neil P. Chue Hong (@npch)
-- Repository: https://github.com/jupytercon/2020-OpenSourceFunding
+   - Presenter: Neil P. Chue Hong (@npch)
+   - Repository: https://github.com/jupytercon/2020-OpenSourceFunding
+   - *Part of the tutorial on Open Source Fundamentals*
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
 ## Topics
 
-- 1. The Economics of Open Source: [slides] [notebook]
-- 2. How to Get Paid for Open Source: [slides] [notebook]
-- 3. Fiscal Sponsorship, Foundations and Freelancing: [slides] [notebook]
+   - Introduction to this tutorial topic: [slides](254-ChueHong-0-Intro.md)
+   - The Economics of Open Source: [slides](254-ChueHong-1-Economics.md) [notebook]
+   - How to Get Paid for Open Source: [slides](254-ChueHong-2-GettingPaid.md) [notebook]
+   - Fiscal Sponsorship, Foundations and Freelancing: [slides](254-ChueHong-3-Mechanisms.md) [notebook]
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
